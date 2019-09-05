@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/database.jpg
 title: Record Database for ICS212
-permalink: projects/micromouse
+permalink: projects/database
 # All dates must be YYYY-MM-DD format!
 date: 2019-22-04
 labels:
