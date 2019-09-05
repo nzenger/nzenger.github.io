@@ -2,11 +2,11 @@
   "basics": {
     "name": "Nathan Zenger",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://github.com/nzenger/nzenger.github.io/blob/master/images/profilegit.jpg",
+    "email": "nzenger@hawaii.edu",
+    "phone": "808-639-6707",
+    "website": "https://nzenger.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,41 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "nzenger",
+        "url": "https://github.com/nzenger"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Nathan Zenger",
+        "url": "https://www.linkedin.com/in/nathan-zenger-5bb7ba192/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Game Development",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Enginerring",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "App Development",
       "keywords": [
       ]
     }
@@ -65,8 +65,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C#",
+        "Python"
       ]
     },
     {
