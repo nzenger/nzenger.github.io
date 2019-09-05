@@ -29,12 +29,13 @@
         "network": "techui",
         "username": "Nathan Zenger",
         "url": "http://www.techhui.com/profile/NathanZenger"
-      }/*,
+      },
       {
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }*/
+      }
+      
     ]
   },
   "interests": [
@@ -52,11 +53,11 @@
         "mobile app software"
       ]
     },
-    /*{
+    {
       "name": "artificial intelligence",
       "keywords": [
       ]
-    }*/
+    }
   ],
   "skills": [
     {
@@ -109,7 +110,7 @@
         "Customer service, Provide Tech support to students",
         "Help students with using lab facilities and fixing othet technological problems, malware, recovery, etc..."
       ]
-    }/*,
+    },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -121,10 +122,10 @@
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
-    }*/
+    }
   ],
   "volunteer": [
-   /* {
+    {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
@@ -148,10 +149,10 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }*/
+    }
   ],
   "awards": [
-    /*{
+    {
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
@@ -162,7 +163,7 @@
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }*/
+    }
   ],
   "references": [
     {
