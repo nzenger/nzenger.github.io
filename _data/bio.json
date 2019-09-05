@@ -2,11 +2,11 @@
   "basics": {
     "name": "Nathan Zenger",
     "label": "Student",
-    "picture": "",
-    "email": "nzenger@hawaii.edu",
-    "phone": "808-639-6707",
-    "website": "https://nzenger.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,40 +17,37 @@
     "profiles": [
       {
         "network": "github",
-        "username": "nzenger",
-        "url": "http://nzenger.github.io"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "Nathan Zenger",
-        "url": "https://www.linkedin.com/in/nathan-zenger-5bb7ba192/"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
       },
       {
-        "network": "techui",
-        "username": "Nathan Zenger",
-        "url": "http://www.techhui.com/profile/NathanZenger"
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
       }
-      
     ]
   },
   "interests": [
     {
-      "name": "game development",
+      "name": "internet of things",
       "keywords": [
-        "Unity",
-        "Indie",
-        "C#"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "software engineering",
+      "name": "data mining",
       "keywords": [
-        "mobile app software"
       ]
     },
     {
@@ -62,53 +59,51 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Python",
-        "C#"
-        "Html"
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "experieced",
+      "level": "",
       "keywords": [
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "Linux",
-        "Unix",
-        "Windows10"
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2018-08-26",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "3.17",
+      "gpa": "",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Information Technology Services",
-      "position": "Lab Monitor",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2018-10-01",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "ITS support for students in computer labs at UH Manoa",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Customer service, Provide Tech support to students",
-        "Help students with using lab facilities and fixing othet technological problems, malware, recovery, etc..."
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
