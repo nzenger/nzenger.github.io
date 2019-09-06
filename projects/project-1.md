@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/database.jpg
-title: Record Database for ICS212
-permalink: projects/database
+image: images/micromouse.jpg
+title: Micromouse
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2019-22-04
+date: 2015-07-01
 labels:
-  - Unix
-  - C
-summary: I developed a database which would store, sort, and retrieve accounts from a dtabase containing different information.
+  - Robotics
+  - Arduino
+  - C++
+summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
@@ -38,6 +39,5 @@ byte ADCRead(byte ch)
 ```
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
 
 
