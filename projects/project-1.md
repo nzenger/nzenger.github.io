@@ -5,7 +5,7 @@ image: images/database.jpg
 title: Database
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2019-22-04
+date: 2019-04-22
 labels:
   - C
 summary: Created a database which would store, receive, and retrieve data.
