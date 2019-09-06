@@ -12,50 +12,12 @@ labels:
 summary: A VIP Aerospace Technologies group drone project at UH Manoa.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Operations between Small Satellites and sUAS (small Unmanned Aircraft System), more commonly known as the Drone Project, is one of many projects that has a focus in Aerospace Technologies. An unmanned aerial vehicle (UAV) is are more popularly known as drone. Drones have a simple aircraft system that consists of the vehicle itself, a ground-based controller, and a medium for communication. Drones have the potential software to be programmed such that it does not need control from man. They can also achieve great altitude and go a far range given enough fuel and command.  
+	In the next month, the Hawaii Space Flight Laboratory plans to launch a small satellite at the University of Hawaii. This satellite is an essential part of this project, for it will give us the means of communication between satellite and drone. The small satellite is being launched with the purpose of observing Earth.
+	The drone project has worked on establishing a working drone, and preparing it for flight. Many parts break down so we have to replace and reprogram it. Most programs for flight control were already previously worked on, so we are tasked to keep the software and parts up to date. We are also tasked with coming up with ways for improving the flight characteristics of drone. We constantly think of new ways to accomodate for unexpected conditions such as rainfall. One task that is being worked on is having a 3D print model box that will sit on top of the drone, that can secure parts that previously sat on top of the drone with no protection such as the Raspberry pi. Additionally, the box will  prevent any damage sustained during flight and keep parts in position (so it doesnt fall off).
+	 Before beginning the drone project, each team member was tasked with researching drones and aerospace technologies and their uses. One of the first exercises that Professor Nunes showed was if we were to change the speed of a four legged four wing drone, then which side would it lean on. Basically, he tested our understanding of drone flight and stability. 
+	
+	For our research, we looked at websites that specialized in drones and read articles, looked over the Matrice 100 Manual, and attended exercises including the MANTAS events, as well as collaborating with the rocket team. This project was started by Hawaii Space Flight laboratory and we got assistance from the lab in Portugal, there are three labs that represent sea, land, and space. Our drone team is the first experimental drone project to do this in the nation.
+  
+Project Summary: 
 
