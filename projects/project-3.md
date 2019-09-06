@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Small Satellite to Small UAS Operations (WIP)
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
