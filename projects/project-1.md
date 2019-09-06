@@ -5,12 +5,10 @@ image: images/database.jpg
 title: Database
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-22-04
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - C
+summary: Created a database in Unix which can store a variety of data into an account and sorts the accounts and allows you to search for specific accounts of stored data.
 ---
 
 <div class="ui small rounded images">
