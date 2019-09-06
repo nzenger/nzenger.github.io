@@ -14,7 +14,6 @@ A Database project that was written in the C programming language for ICS212. Th
 
 I wrote all the code for the databse myself and thoroughly tested the program so to ensure that the dtabase behaved and performed the tasks of storing, searching, and deleting correctly. I also implemented a debugger that I wrote into the source code so that I could check values and locations of the variables being passed around and to check the parameters of function calls withing the code while it's running. This project was a simple but effective database that implemented SCCS in Unix.
 
-
-Here is the repository for the project: 
+Here is the repository for the project: https://github.com/nzenger/ICS212-Project-1
 
 
