@@ -8,7 +8,7 @@ permalink: projects/micromouse
 date: 2019-22-04
 labels:
   - C
-summary: Created a database in Unix which can store a variety of data into an account and sorts the accounts and allows you to search for specific accounts of stored data.
+summary: Created a database which would store, receive, and retrieve data.
 ---
 
 <div class="ui small rounded images">
