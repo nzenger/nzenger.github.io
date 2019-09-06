@@ -1,17 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/web.png
+title: Restaurant Website Development
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-07-14
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Wix
+summary: A first time website I created for a restaurant I was employed at to help advertising.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
