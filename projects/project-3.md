@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/vip.jpg
 title: Small Satellite to Small UAS Operations (WIP)
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-05-08
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Dune
+  - C++
+summary: A VIP Aerospace Technologies group drone project at UH Manoa.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
