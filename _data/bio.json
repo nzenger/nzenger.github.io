@@ -41,8 +41,8 @@
     {
       "name": "Game Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Unity",
+        "C#"
       ]
     },
     {
@@ -111,12 +111,12 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "VIP Aerospace Technologies",
+      "website": "https://sites.google.com/a/hawaii.edu/uh-vip/home",
+      "position": "Team Member",
+      "startDate": "2019-01-27",
+      "endDate": "present",
+      "summary": "A VIP Aerospace Technologies group drone project at UH Manoa.",
       "highlights": [
         "",
         ""
