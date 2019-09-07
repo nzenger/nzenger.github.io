@@ -46,12 +46,12 @@
       ]
     },
     {
-      "name": "Software Enginerring",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "App Development",
+      "name": "AI",
       "keywords": [
       ]
     }
@@ -77,7 +77,8 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Unix",
+        "Windows10"
       ]
     }
   ],
