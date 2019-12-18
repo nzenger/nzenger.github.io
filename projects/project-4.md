@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/text1.png
+image: images/text4.png
 title: textXchange: Textbook market web application
 permalink: projects/text
 # All dates must be YYYY-MM-DD format!
