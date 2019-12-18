@@ -1,21 +1,19 @@
 ---
 layout: project
 type: project
-image: images/text1.png
-title: textXchange: Textbook market web application
+image: images/database.jpg
+title: Database for ICS212
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-18
+date: 2019-04-22
 labels:
-  - Meteor
-  - React
-  - Semantic UI
-summary: Textbook market web application developed for ICS 314 with the goal of developing a website.
+  - C
+  - Unix
+  - SCCS
+summary: Created a database which would store, receive, and retrieve data.
 ---
+A Database project that was written in the C programming language for ICS212. The main goal and purpose of this program is to stores records containing a persons name, account number, and address and store them to be retrieved or manipulated later. The options for this database are adding a new record to the database allowing the user to enter the new information which is then added and sorted into the database. The next database option is to print a specific record which is found with an account number or the name of the person on record. The last features of the database is being able to reverse your list of records and delete specific records based on their account no. This program was designed to be used in Unix and utilizes the SCCS(Source Code Control System) which protects the code from alterations of other parties and allows the programmer to archive previous iterrations of source code created.
 
-<img class="ui medium right floated rounded image" src="../images/text3.png">
+I wrote all the code for the databse myself and thoroughly tested the program so to ensure that the dtabase behaved and performed the tasks of storing, searching, and deleting correctly. I also implemented a debugger that I wrote into the source code so that I could check values and locations of the variables being passed around and to check the parameters of function calls withing the code while it's running. This project was a simple but effective database that implemented SCCS in Unix.
 
-A web application that I developed with a team of 3 other UH Manoa students for ICS 314 which utilizes Meteor and React. This Web applications purpose is to be a market place where students can make accounts and sell their used textbooks online to other students on campus to save money on buuying textbooks for classes and sellers can make money back for textbooks they already have in their possesion. I was a co-developer on the team and implemented features such as the sign in and register pages while also setting up email notifications for purchasing books and registering on the website. Other minor features I added to the website was the option to delete books and building the profile page. As a team we utilized Github desktop to assign issues and organize our work on this larger scale project.
-
-link to current version of the website: http://textxchange.meteorapp.com/
-link to Github page of web application: https://textxchange.github.io/
+Here is the repository for the project: https://github.com/nzenger/ICS212-Project-1
