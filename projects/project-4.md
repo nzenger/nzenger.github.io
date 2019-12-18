@@ -10,7 +10,7 @@ labels:
   - Meteor
   - React
   - Semantic UI
-summary: Textbook market web application developed for ICS 314 with the goal of developing a website 
+summary: Textbook market web application developed for ICS 314 with the goal of developing a website.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/text3.png">
