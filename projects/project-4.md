@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/dogeQuest2.png
-title: Doge Quest
+title: TextXchange
 permalink: projects/textx
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-17
