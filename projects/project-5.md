@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HumanRepair1.png
+image: images/HumanRepair2.png
 title: Human Repair
 permalink: projects/humanrepair
 # All dates must be YYYY-MM-DD format!
