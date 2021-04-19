@@ -12,7 +12,7 @@ labels:
   - C++
 summary: Solo game dev project created in the unity game engine for my ICS485 project.
 ---
-<div class="ui medium bordered images">
+<div class="ui large bordered images">
   <img class="ui image" src="../images/dogeQuest3.png">
   <img class="ui image" src="../images/dogeQuest1.png">
 </div>
