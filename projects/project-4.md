@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/text4.png
-title: textXchange: Textbook market web application
-permalink: projects/project4
+image: images/dogeQuest2.png
+title: Doge Quest
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-18
+date: 2021-02-17
 labels:
-  - Meteor
-  - React
-  - Semantic UI
-summary: Textbook market web application developed for ICS 314 with the goal of developing a website.
+  - Unity
+  - Bolt
+  - C++
+summary: Solo game dev project created in the unity game engine for my ICS485 project.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/text3.png">
