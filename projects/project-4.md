@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dogeQuest2.png
 title: Doge Quest
-permalink: projects/micromouse
+permalink: projects/textx
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-17
 labels:
