@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/text4.png
-title: textXchange
+title: Doge Quest
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2019-04-22
+date: 20-04-22
 labels:
   - React
   - Meteor
