@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/web.png
+image: images/Kubus1.png
 title: Kubus
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,6 @@ summary: Group game dev project created for the ICS485 second class project.
 ---
 
 <div class="ui large bordered images">
-  <img class="ui image" src="../images/Kubus1.png">
   <img class="ui image" src="../images/Kubus2.png">
   <img class="ui image" src="../images/Kubus4.png">
 </div>
