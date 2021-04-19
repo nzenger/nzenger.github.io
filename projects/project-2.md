@@ -2,13 +2,15 @@
 layout: project
 type: project
 image: images/web.png
-title: Restaurant Website Development
+title: Kubus
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-07-14
+date: 2021-03-14
 labels:
-  - Wix
-summary: A first time website I created for a restaurant I was employed at to help advertising.
+  - Unity
+  - Bolt
+  - C++
+summary: Group game dev project created for the ICS485 second class project.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/web2.png">
@@ -17,4 +19,4 @@ This project is a website I developed for a restaurant I was employed at over th
 
 It is harder than I previously thought to visually present information to a user in a organized and logical way. While at the same time remaining aesthetically pleasing to the user. But through trial and error and research I developed a template that I think conveys the buisness information well and at the end of the project became fluent with the editor. I am still making adjustments and changes on the side for my client so it is a work in progress to be completed in the near future.
 
-link to current version of the website: https://nzenger.wixsite.com/dolphin/restaurant
+[Playtest Here](https://digitaloasis.itch.io/kubus)
