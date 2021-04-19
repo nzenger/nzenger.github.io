@@ -9,7 +9,7 @@ date: 2020-12-14
 labels:
   - Meteor
   - React
-  - Slack bot
+  - Slack API
   - MongoDB
   - HTML
   - JS
