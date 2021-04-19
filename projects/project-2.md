@@ -13,10 +13,12 @@ labels:
 summary: Group game dev project created for the ICS485 second class project.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/web2.png">
+<div class="ui large bordered images">
+  <img class="ui image" src="../images/Kubus1.png">
+  <img class="ui image" src="../images/Kubus2.png">
+  <img class="ui image" src="../images/Kubus4.png">
+</div>
 
-This project is a website I developed for a restaurant I was employed at over the summer. The website is a basic general overview of informations and services of the buisness and conveys easily accesible info for inquiring customers to view.At the request of my manager I used Wix and it's editor to create the website. It is not as difficult as developing a website from scratch with a computer language. But I feel that still learned a lot about web design from this solo endevour. 
-
-It is harder than I previously thought to visually present information to a user in a organized and logical way. While at the same time remaining aesthetically pleasing to the user. But through trial and error and research I developed a template that I think conveys the buisness information well and at the end of the project became fluent with the editor. I am still making adjustments and changes on the side for my client so it is a work in progress to be completed in the near future.
+Kubus is a geometry puzzle game centered around navigating your way around a cube by switching gravity and rotating the faces of each side. To solve the levels you must rotate sides, find hidden items, and open doors to reach the center of each cube. We are a team consisiting of 2 programmers and 1 artist working with Unity, Blender, and Maya to create innovative levels and satisfying puzzles. The game is currently in development and being updated on a weekly basis with visual and mechanic improvments.
 
 [Playtest Here](https://digitaloasis.itch.io/kubus)
