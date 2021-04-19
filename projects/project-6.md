@@ -17,7 +17,7 @@ labels:
 summary: A hackathon team finder, maker, and manager created for the HACC hackathon.
 ---
 
-<div class="ui large bordered images">
+<div class="ui medium bordered images">
   <img class="ui image" src="../images/HACC2.png">
   <img class="ui image" src="../images/HACC3.png">
    <img class="ui image" src="../images/HACC4.png">
