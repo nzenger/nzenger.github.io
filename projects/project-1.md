@@ -13,8 +13,8 @@ labels:
 summary: Solo game dev project created in the unity game engine for my ICS485 project.
 ---
 
-<img class="ui medium floated rounded image" src="../images/dogeQuest3.png">
-<img class="ui medium floated rounded image" src="../images/dogeQuest1.png">
+<img class="ui medium rounded image" src="../images/dogeQuest3.png">
+<img class="ui medium rounded image" src="../images/dogeQuest1.png">
 
 <div>
 <p>
