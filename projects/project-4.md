@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/text4.png
 title: textXchange: Textbook market web application
-permalink: projects/textx
+permalink: projects/exchange
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
