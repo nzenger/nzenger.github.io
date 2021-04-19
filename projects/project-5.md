@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Kubus1.png
+image: images/HumanRepair1.png
 title: Human Repair
 permalink: projects/humanrepair
 # All dates must be YYYY-MM-DD format!
@@ -13,8 +13,8 @@ summary: 2D platformer created for a Global Game Jam with a team of 2 other memb
 ---
 
 <div class="ui large bordered images">
-  <img class="ui image" src="../images/Kubus2.png">
-  <img class="ui image" src="../images/Kubus4.png">
+  <img class="ui image" src="../images/HumanRepair1.png">
+  <img class="ui image" src="../images/HumanRepair2.png">
 </div>
 
 First global game jam project made in the course of 72 hours with a team consisting of 2 programmers and 1 artist.
